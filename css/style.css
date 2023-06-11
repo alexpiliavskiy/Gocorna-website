@@ -845,7 +845,7 @@ main {
   height: 65px;
   top: -25px;
   right: 10px;
-  border-radius: 30px;
+  border-radius: 16px;
   transform: rotate(45deg);
 }
 
